@@ -10,3 +10,9 @@
 [submodule "Lab-4-Storage"]
 	path = Lab-4-Storage
 	url = https://github.com/pateldeep08/Lab-4-Storage.git
+[submodule "Lab-2-TypeScript"]
+	path = Lab-2-TypeScript
+	url = https://github.com/pateldeep08/Lab-2-TypeScript.git
+[submodule "Lab-3-Storage"]
+	path = Lab-3-Storage
+	url = https://github.com/pateldeep08/Lab-3-Storage.git
