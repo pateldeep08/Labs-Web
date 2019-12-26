@@ -16,3 +16,6 @@
 [submodule "Lab-3-Storage"]
 	path = Lab-3-Storage
 	url = https://github.com/pateldeep08/Lab-3-Storage.git
+[submodule "Lab-4-Middleware"]
+	path = Lab-4-Middleware
+	url = https://github.com/pateldeep08/Lab-4-Middleware.git
